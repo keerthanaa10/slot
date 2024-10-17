@@ -154,6 +154,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+![terminal](https://github.com/user-attachments/assets/48c2f571-a98e-41f6-9a67-3d04cc65128d)
+
 ![alt text](output.JPG)
 
 ## RESULT
